@@ -1,0 +1,32 @@
+cnt=2
+
+
+
+
+
+id=1 
+purchase Date:99/11/16
+title    price    count
+soap     4        5
+biscuit  7        3
+milk     10       2
+num=3
+
+
+
+id=2
+purchase Date:99/11/16
+title    price   count
+
+
+tuna     24      2
+packet   5       3
+soap     4       6
+snack    14      2
+mug      32      1
+candle   10      1
+num=6
+
+
+
+

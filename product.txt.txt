@@ -1,0 +1,19 @@
+
+32 soap            4      99/5/4
+82 candle          10     97/3/1
+78 packet          5      96/7/6
+10 biscuit         7      99/10/12
+0  cookie          5      99/11/5
+90 potatochips     8      99/9/9
+6  chocolate       20     99/8/5
+67 snack           14     99/7/24
+8  oil             50     99/9/2
+53 juice           14     99/4/16
+76 butter          13     99/4/11
+14 pen             6      95/4/25
+4  jam             17     99/10/29
+12 cheese          2      99/6/23
+43 mug             32     96/11/16
+2  milk            10     99/11/16
+21 tuna            24     99/8/26
+
